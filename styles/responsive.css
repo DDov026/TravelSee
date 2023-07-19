@@ -239,11 +239,7 @@
 	{
 		margin-bottom: 10px;
 	}
-	.tags footer_tags
-	{
-        margin-top: 10px;
-	}
-
+	
 }
 
 /************
@@ -263,6 +259,11 @@
 {
 	
 }
+.footer_tags
+	{
+        margin-top: 10px;
+	}
+
 
 /************
 9. 768px
@@ -272,6 +273,11 @@
 {
 	
 }
+.footer_tags
+	{
+        margin-top: 10px;
+	}
+
 
 /************
 10. 767px
