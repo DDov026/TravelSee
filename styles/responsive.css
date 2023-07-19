@@ -911,6 +911,10 @@
 	{
 		font-size: 12px !important;
 	}
+	.footer_col
+	{
+		margin-top: 10px;
+	}
 }
 
 /************
