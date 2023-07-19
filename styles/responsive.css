@@ -366,6 +366,11 @@
 		margin-right: auto;
 		margin-top: 15px;
 	}
+	.footer_tags
+	{
+        margin-top: 10px;
+	}
+
 }
 
 /************
@@ -925,6 +930,11 @@
 {
 	
 }
+.footer_tags
+	{
+        margin-top: 10px;
+	}
+
 
 /************
 13. 479px
@@ -934,6 +944,11 @@
 {
 	
 }
+.footer_tags
+	{
+        margin-top: 10px;
+	}
+
 
 /************
 14. 400px
@@ -943,3 +958,8 @@
 {
 	
 }
+.footer_tags
+	{
+        margin-top: 10px;
+	}
+
